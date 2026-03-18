@@ -1,0 +1,241 @@
+Month,Year,Age_Group,Sex,Region,Console,Units_Sold,Revenue_USD
+March,2023,18-24,Male,North America,PlayStation 5,12450,746998.50
+March,2023,18-24,Female,North America,PlayStation 5,9870,592020.30
+March,2023,25-34,Male,North America,Xbox Series X,8340,500394.00
+March,2023,25-34,Female,North America,Xbox Series X,6120,367192.80
+March,2023,35-44,Male,North America,Nintendo Switch,4210,252561.90
+March,2023,35-44,Female,North America,Nintendo Switch,3780,226878.00
+March,2023,45-54,Male,North America,PC,2150,128935.50
+March,2023,45-54,Female,North America,PC,1640,98394.40
+March,2023,55+,Male,North America,PlayStation 5,890,53395.10
+March,2023,55+,Female,North America,PlayStation 5,670,40193.30
+March,2023,18-24,Male,Europe,PlayStation 5,10980,659119.80
+March,2023,18-24,Female,Europe,PlayStation 5,8450,507065.50
+March,2023,25-34,Male,Europe,Xbox Series X,7630,457879.70
+March,2023,25-34,Female,Europe,Xbox Series X,5890,353471.10
+March,2023,35-44,Male,Europe,Nintendo Switch,3920,235242.00
+March,2023,35-44,Female,Europe,Nintendo Switch,3340,200439.60
+March,2023,45-54,Male,Europe,PC,1980,118799.40
+March,2023,45-54,Female,Europe,PC,1520,91199.20
+March,2023,55+,Male,Europe,PlayStation 5,740,44399.60
+March,2023,55+,Female,Europe,PlayStation 5,560,33599.60
+March,2023,18-24,Male,Asia Pacific,PlayStation 5,14320,859239.80
+March,2023,18-24,Female,Asia Pacific,PlayStation 5,11200,672160.00
+March,2023,25-34,Male,Asia Pacific,Nintendo Switch,9870,592120.30
+March,2023,25-34,Female,Asia Pacific,Nintendo Switch,7650,459166.50
+March,2023,35-44,Male,Asia Pacific,PC,5430,325899.70
+March,2023,35-44,Female,Asia Pacific,PC,4120,247239.60
+March,2023,45-54,Male,Asia Pacific,Xbox Series X,2340,140399.40
+March,2023,45-54,Female,Asia Pacific,Xbox Series X,1870,112219.70
+March,2023,55+,Male,Asia Pacific,PlayStation 5,980,58799.80
+March,2023,55+,Female,Asia Pacific,PlayStation 5,760,45599.60
+March,2023,18-24,Male,Latin America,Nintendo Switch,5670,340219.30
+March,2023,18-24,Female,Latin America,Nintendo Switch,4320,259238.40
+March,2023,25-34,Male,Latin America,PlayStation 5,3980,238879.80
+March,2023,25-34,Female,Latin America,PlayStation 5,3120,187199.20
+March,2023,35-44,Male,Latin America,PC,1870,112219.70
+March,2023,35-44,Female,Latin America,PC,1450,87005.50
+March,2023,45-54,Male,Latin America,Xbox Series X,890,53395.10
+March,2023,45-54,Female,Latin America,Xbox Series X,670,40193.30
+March,2023,55+,Male,Latin America,Nintendo Switch,340,20399.60
+March,2023,55+,Female,Latin America,Nintendo Switch,270,16199.70
+April,2023,18-24,Male,North America,PlayStation 5,9870,592120.30
+April,2023,18-24,Female,North America,PlayStation 5,7650,459166.50
+April,2023,25-34,Male,North America,Xbox Series X,6780,406799.40
+April,2023,25-34,Female,North America,Xbox Series X,5120,307199.20
+April,2023,35-44,Male,North America,Nintendo Switch,3450,207005.50
+April,2023,35-44,Female,North America,Nintendo Switch,2980,178799.80
+April,2023,45-54,Male,North America,PC,1870,112219.70
+April,2023,45-54,Female,North America,PC,1340,80399.60
+April,2023,55+,Male,North America,PlayStation 5,720,43199.80
+April,2023,55+,Female,North America,PlayStation 5,540,32399.60
+April,2023,18-24,Male,Europe,PlayStation 5,8760,525599.60
+April,2023,18-24,Female,Europe,PlayStation 5,6890,413399.10
+April,2023,25-34,Male,Europe,Xbox Series X,6120,367199.80
+April,2023,25-34,Female,Europe,Xbox Series X,4780,286799.80
+April,2023,35-44,Male,Europe,Nintendo Switch,3210,192599.10
+April,2023,35-44,Female,Europe,Nintendo Switch,2650,158999.50
+April,2023,45-54,Male,Europe,PC,1650,98999.50
+April,2023,45-54,Female,Europe,PC,1280,76799.20
+April,2023,55+,Male,Europe,PlayStation 5,610,36599.10
+April,2023,55+,Female,Europe,PlayStation 5,460,27599.60
+April,2023,18-24,Male,Asia Pacific,PlayStation 5,11230,673799.70
+April,2023,18-24,Female,Asia Pacific,PlayStation 5,8970,538199.70
+April,2023,25-34,Male,Asia Pacific,Nintendo Switch,7890,473399.10
+April,2023,25-34,Female,Asia Pacific,Nintendo Switch,6120,367199.80
+April,2023,35-44,Male,Asia Pacific,PC,4320,259199.80
+April,2023,35-44,Female,Asia Pacific,PC,3450,207005.50
+April,2023,45-54,Male,Asia Pacific,Xbox Series X,1980,118799.40
+April,2023,45-54,Female,Asia Pacific,Xbox Series X,1540,92399.60
+April,2023,55+,Male,Asia Pacific,PlayStation 5,820,49199.80
+April,2023,55+,Female,Asia Pacific,PlayStation 5,630,37799.70
+April,2023,18-24,Male,Latin America,Nintendo Switch,4320,259199.80
+April,2023,18-24,Female,Latin America,Nintendo Switch,3450,207005.50
+April,2023,25-34,Male,Latin America,PlayStation 5,3120,187199.20
+April,2023,25-34,Female,Latin America,PlayStation 5,2450,147005.50
+April,2023,35-44,Male,Latin America,PC,1540,92399.60
+April,2023,35-44,Female,Latin America,PC,1210,72599.10
+April,2023,45-54,Male,Latin America,Xbox Series X,720,43199.80
+April,2023,45-54,Female,Latin America,Xbox Series X,560,33599.60
+April,2023,55+,Male,Latin America,Nintendo Switch,280,16799.80
+April,2023,55+,Female,Latin America,Nintendo Switch,210,12599.10
+June,2023,18-24,Male,North America,PlayStation 5,8940,536399.40
+June,2023,18-24,Female,North America,PlayStation 5,6780,406799.40
+June,2023,25-34,Male,North America,Xbox Series X,5890,353399.10
+June,2023,25-34,Female,North America,Xbox Series X,4560,273599.60
+June,2023,35-44,Male,North America,Nintendo Switch,3120,187199.20
+June,2023,35-44,Female,North America,Nintendo Switch,2670,160199.70
+June,2023,45-54,Male,North America,PC,1650,98999.50
+June,2023,45-54,Female,North America,PC,1230,73799.70
+June,2023,55+,Male,North America,PlayStation 5,640,38399.60
+June,2023,55+,Female,North America,PlayStation 5,490,29399.10
+June,2023,18-24,Male,Europe,PlayStation 5,7890,473399.10
+June,2023,18-24,Female,Europe,PlayStation 5,6120,367199.80
+June,2023,25-34,Male,Europe,Xbox Series X,5430,325799.70
+June,2023,25-34,Female,Europe,Xbox Series X,4210,252599.10
+June,2023,35-44,Male,Europe,Nintendo Switch,2890,173399.10
+June,2023,35-44,Female,Europe,Nintendo Switch,2340,140399.40
+June,2023,45-54,Male,Europe,PC,1450,86999.50
+June,2023,45-54,Female,Europe,PC,1120,67199.20
+June,2023,55+,Male,Europe,PlayStation 5,560,33599.60
+June,2023,55+,Female,Europe,PlayStation 5,420,25199.80
+June,2023,18-24,Male,Asia Pacific,PlayStation 5,10120,607199.80
+June,2023,18-24,Female,Asia Pacific,PlayStation 5,7980,478799.80
+June,2023,25-34,Male,Asia Pacific,Nintendo Switch,6780,406799.40
+June,2023,25-34,Female,Asia Pacific,Nintendo Switch,5340,320399.40
+June,2023,35-44,Male,Asia Pacific,PC,3890,233399.10
+June,2023,35-44,Female,Asia Pacific,PC,3120,187199.20
+June,2023,45-54,Male,Asia Pacific,Xbox Series X,1760,105599.60
+June,2023,45-54,Female,Asia Pacific,Xbox Series X,1380,82799.80
+June,2023,55+,Male,Asia Pacific,PlayStation 5,740,44399.60
+June,2023,55+,Female,Asia Pacific,PlayStation 5,570,34199.70
+June,2023,18-24,Male,Latin America,Nintendo Switch,3870,232199.70
+June,2023,18-24,Female,Latin America,Nintendo Switch,3120,187199.20
+June,2023,25-34,Male,Latin America,PlayStation 5,2780,166799.80
+June,2023,25-34,Female,Latin America,PlayStation 5,2190,131399.10
+June,2023,35-44,Male,Latin America,PC,1380,82799.80
+June,2023,35-44,Female,Latin America,PC,1080,64799.80
+June,2023,45-54,Male,Latin America,Xbox Series X,650,38999.50
+June,2023,45-54,Female,Latin America,Xbox Series X,490,29399.10
+June,2023,55+,Male,Latin America,Nintendo Switch,250,14999.50
+June,2023,55+,Female,Latin America,Nintendo Switch,190,11399.10
+September,2023,18-24,Male,North America,PlayStation 5,10230,613799.70
+September,2023,18-24,Female,North America,PlayStation 5,7980,478799.80
+September,2023,25-34,Male,North America,Xbox Series X,6890,413399.10
+September,2023,25-34,Female,North America,Xbox Series X,5340,320399.40
+September,2023,35-44,Male,North America,Nintendo Switch,3670,220199.70
+September,2023,35-44,Female,North America,Nintendo Switch,3120,187199.20
+September,2023,45-54,Male,North America,PC,1980,118799.40
+September,2023,45-54,Female,North America,PC,1450,86999.50
+September,2023,55+,Male,North America,PlayStation 5,780,46799.80
+September,2023,55+,Female,North America,PlayStation 5,580,34799.80
+September,2023,18-24,Male,Europe,PlayStation 5,9120,547199.20
+September,2023,18-24,Female,Europe,PlayStation 5,7230,433799.70
+September,2023,25-34,Male,Europe,Xbox Series X,6340,380399.40
+September,2023,25-34,Female,Europe,Xbox Series X,4890,293399.10
+September,2023,35-44,Male,Europe,Nintendo Switch,3340,200399.40
+September,2023,35-44,Female,Europe,Nintendo Switch,2780,166799.80
+September,2023,45-54,Male,Europe,PC,1760,105599.60
+September,2023,45-54,Female,Europe,PC,1340,80399.60
+September,2023,55+,Male,Europe,PlayStation 5,670,40199.70
+September,2023,55+,Female,Europe,PlayStation 5,490,29399.10
+September,2023,18-24,Male,Asia Pacific,PlayStation 5,12340,740399.40
+September,2023,18-24,Female,Asia Pacific,PlayStation 5,9780,586799.80
+September,2023,25-34,Male,Asia Pacific,Nintendo Switch,8120,487199.20
+September,2023,25-34,Female,Asia Pacific,Nintendo Switch,6340,380399.40
+September,2023,35-44,Male,Asia Pacific,PC,4560,273599.60
+September,2023,35-44,Female,Asia Pacific,PC,3670,220199.70
+September,2023,45-54,Male,Asia Pacific,Xbox Series X,2120,127199.20
+September,2023,45-54,Female,Asia Pacific,Xbox Series X,1670,100199.70
+September,2023,55+,Male,Asia Pacific,PlayStation 5,890,53399.10
+September,2023,55+,Female,Asia Pacific,PlayStation 5,680,40799.80
+September,2023,18-24,Male,Latin America,Nintendo Switch,4560,273599.60
+September,2023,18-24,Female,Latin America,Nintendo Switch,3670,220199.70
+September,2023,25-34,Male,Latin America,PlayStation 5,3230,193799.70
+September,2023,25-34,Female,Latin America,PlayStation 5,2560,153599.60
+September,2023,35-44,Male,Latin America,PC,1670,100199.70
+September,2023,35-44,Female,Latin America,PC,1290,77399.10
+September,2023,45-54,Male,Latin America,Xbox Series X,780,46799.80
+September,2023,45-54,Female,Latin America,Xbox Series X,590,35399.10
+September,2023,55+,Male,Latin America,Nintendo Switch,300,17999.00
+September,2023,55+,Female,Latin America,Nintendo Switch,230,13799.70
+December,2023,18-24,Male,North America,PlayStation 5,18450,1107005.50
+December,2023,18-24,Female,North America,PlayStation 5,14230,854299.70
+December,2023,25-34,Male,North America,Xbox Series X,12340,740399.40
+December,2023,25-34,Female,North America,Xbox Series X,9870,592120.30
+December,2023,35-44,Male,North America,Nintendo Switch,7890,473399.10
+December,2023,35-44,Female,North America,Nintendo Switch,6540,392399.40
+December,2023,45-54,Male,North America,PC,3450,207005.50
+December,2023,45-54,Female,North America,PC,2780,166799.80
+December,2023,55+,Male,North America,PlayStation 5,1560,93599.60
+December,2023,55+,Female,North America,PlayStation 5,1230,73799.70
+December,2023,18-24,Male,Europe,PlayStation 5,15670,940199.70
+December,2023,18-24,Female,Europe,PlayStation 5,12340,740399.40
+December,2023,25-34,Male,Europe,Xbox Series X,10890,653399.10
+December,2023,25-34,Female,Europe,Xbox Series X,8450,507005.50
+December,2023,35-44,Male,Europe,Nintendo Switch,6780,406799.40
+December,2023,35-44,Female,Europe,Nintendo Switch,5430,325799.70
+December,2023,45-54,Male,Europe,PC,2980,178799.80
+December,2023,45-54,Female,Europe,PC,2340,140399.40
+December,2023,55+,Male,Europe,PlayStation 5,1230,73799.70
+December,2023,55+,Female,Europe,PlayStation 5,980,58799.80
+December,2023,18-24,Male,Asia Pacific,PlayStation 5,21230,1273799.70
+December,2023,18-24,Female,Asia Pacific,PlayStation 5,17890,1073399.10
+December,2023,25-34,Male,Asia Pacific,Nintendo Switch,14560,873599.60
+December,2023,25-34,Female,Asia Pacific,Nintendo Switch,11230,673799.70
+December,2023,35-44,Male,Asia Pacific,PC,8120,487199.20
+December,2023,35-44,Female,Asia Pacific,PC,6540,392399.40
+December,2023,45-54,Male,Asia Pacific,Xbox Series X,3780,226799.80
+December,2023,45-54,Female,Asia Pacific,Xbox Series X,2980,178799.80
+December,2023,55+,Male,Asia Pacific,PlayStation 5,1560,93599.60
+December,2023,55+,Female,Asia Pacific,PlayStation 5,1230,73799.70
+December,2023,18-24,Male,Latin America,Nintendo Switch,8340,500399.40
+December,2023,18-24,Female,Latin America,Nintendo Switch,6780,406799.40
+December,2023,25-34,Male,Latin America,PlayStation 5,5670,340199.70
+December,2023,25-34,Female,Latin America,PlayStation 5,4450,267005.50
+December,2023,35-44,Male,Latin America,PC,2780,166799.80
+December,2023,35-44,Female,Latin America,PC,2230,133799.70
+December,2023,45-54,Male,Latin America,Xbox Series X,1340,80399.60
+December,2023,45-54,Female,Latin America,Xbox Series X,1080,64799.80
+December,2023,55+,Male,Latin America,Nintendo Switch,560,33599.60
+December,2023,55+,Female,Latin America,Nintendo Switch,430,25799.70
+March,2024,18-24,Male,North America,PlayStation 5,11230,673799.70
+March,2024,18-24,Female,North America,PlayStation 5,8780,526799.80
+March,2024,25-34,Male,North America,Xbox Series X,7560,453599.60
+March,2024,25-34,Female,North America,Xbox Series X,5890,353399.10
+March,2024,35-44,Male,North America,Nintendo Switch,4120,247199.20
+March,2024,35-44,Female,North America,Nintendo Switch,3450,207005.50
+March,2024,45-54,Male,North America,PC,2120,127199.20
+March,2024,45-54,Female,North America,PC,1650,98999.50
+March,2024,55+,Male,North America,PlayStation 5,860,51599.60
+March,2024,55+,Female,North America,PlayStation 5,650,38999.50
+March,2024,18-24,Male,Europe,PlayStation 5,9870,592120.30
+March,2024,18-24,Female,Europe,PlayStation 5,7650,459166.50
+March,2024,25-34,Male,Europe,Xbox Series X,6780,406799.40
+March,2024,25-34,Female,Europe,Xbox Series X,5230,313799.70
+March,2024,35-44,Male,Europe,Nintendo Switch,3780,226799.80
+March,2024,35-44,Female,Europe,Nintendo Switch,3120,187199.20
+March,2024,45-54,Male,Europe,PC,1870,112219.70
+March,2024,45-54,Female,Europe,PC,1450,86999.50
+March,2024,55+,Male,Europe,PlayStation 5,710,42599.10
+March,2024,55+,Female,Europe,PlayStation 5,540,32399.60
+March,2024,18-24,Male,Asia Pacific,PlayStation 5,13450,807005.50
+March,2024,18-24,Female,Asia Pacific,PlayStation 5,10780,646799.80
+March,2024,25-34,Male,Asia Pacific,Nintendo Switch,9120,547199.20
+March,2024,25-34,Female,Asia Pacific,Nintendo Switch,7230,433799.70
+March,2024,35-44,Male,Asia Pacific,PC,5120,307199.20
+March,2024,35-44,Female,Asia Pacific,PC,4120,247199.20
+March,2024,45-54,Male,Asia Pacific,Xbox Series X,2340,140399.40
+March,2024,45-54,Female,Asia Pacific,Xbox Series X,1870,112219.70
+March,2024,55+,Male,Asia Pacific,PlayStation 5,940,56399.60
+March,2024,55+,Female,Asia Pacific,PlayStation 5,730,43799.70
+March,2024,18-24,Male,Latin America,Nintendo Switch,5120,307199.20
+March,2024,18-24,Female,Latin America,Nintendo Switch,4120,247199.20
+March,2024,25-34,Male,Latin America,PlayStation 5,3560,213599.60
+March,2024,25-34,Female,Latin America,PlayStation 5,2780,166799.80
+March,2024,35-44,Male,Latin America,PC,1670,100199.70
+March,2024,35-44,Female,Latin America,PC,1320,79199.20
+March,2024,45-54,Male,Latin America,Xbox Series X,780,46799.80
+March,2024,45-54,Female,Latin America,Xbox Series X,590,35399.10
+March,2024,55+,Male,Latin America,Nintendo Switch,310,18599.10
+March,2024,55+,Female,Latin America,Nintendo Switch,240,14399.60
